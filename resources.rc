@@ -1,0 +1,2 @@
+AESCODE   RCDATA   "XORcode.bin"
+AESKEY    RCDATA   "XORkey.bin"
